@@ -101,7 +101,7 @@
             <!-- Colors -->
             <div class="mt-10">
               <div class="flex items-center justify-between">
-                <h3 class="text-sm font-medium text-gray-900">Veličina</h3>
+                <h3 class="text-sm font-medium text-gray-900">Boja</h3>
               </div>
 
               <fieldset aria-label="Choose a size" class="mt-4">
